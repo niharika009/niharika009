@@ -7,15 +7,13 @@ I'm a B.Tech CSE (Data Science) student passionate about data-driven problem-sol
 
 🛠️ Tech Stack & Skills
 
-Programming Languages: Java, Python, C
+Programming Languages: Java, Python, C.
 
 Data Science & Machine Learning: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Open CV
 
 Databases:MySQL
 
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
-
-Web Development: Flask, FastAPI
 
 Version Control: GitHub
 
