@@ -2,7 +2,7 @@
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-    I'm a B.Tech CSE (Data Science) student passionate about data-driven problem-solving. I aspire to become a Data Analyst or Data Scientist, leveraging my skills in programming and machine learning to extract meaningful insights from data
+    I'm a B.Tech CSE (Data Science) student passionate about data-driven problem-solving. I aspire to become a Data Analyst or Data Scientist, leveraging my skills in programming and machine learning to extract meaningful insights from data.
 </p>
 
 <h3 align="left">🛠️ Tech Stack & Skills</h3>
