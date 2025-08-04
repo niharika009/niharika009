@@ -1,4 +1,4 @@
-<h3 align="left">Hi there! I'm Niharika Nashine.</h3>
+<h3 align="left">Hi there!👋 I'm Niharika Nashine.</h3>
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
